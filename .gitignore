@@ -2,3 +2,12 @@
 /build/
 /bin/
 target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+*.DS_Store
+
+# Eclipse project files
+.classpath
+.project
