@@ -26,6 +26,11 @@ public class App
         for (int x=0; x < array1.length; x++){
         	System.out.println(array1[x]);
         }
+        int varlength = 20;
+        array1 = new int[varlength];
+        for (int x=0; x < array1.length; x++){
+        	System.out.println(array1[x]);
+        }
         
         
     }
